@@ -311,23 +311,23 @@ body {
   }
 
 .red {
-    background-image: url(D:/Traning100day/Project21/img/auto_text_design-m.jpg);
+    background-image: url(img/auto_text_design-m.jpg);
     width: 251px;
 }
 .yellow {
-    background-image: url(D:/Traning100day/Project21/img/auto_text_creative-m.jpg);
+    background-image: url(img/auto_text_creative-m.jpg);
     width: 300px;
 }
 .blue {
-    background-image: url(D:/Traning100day/Project21/img/auto_text_uxui-m.jpg);    
+    background-image: url(img/auto_text_uxui-m.jpg);    
     width: 200px;
 }
 .orange {
-    background-image: url(D:/Traning100day/Project21/img/auto_text_responsive-m.jpg);
+    background-image: url(img/auto_text_responsive-m.jpg);
     width: 375px;
 }
 .purple {
-    background-image: url(D:/Traning100day/Project21/img/auto_text_branding-m.jpg);
+    background-image: url(img/auto_text_branding-m.jpg);
     width: 330px;
 }
 
