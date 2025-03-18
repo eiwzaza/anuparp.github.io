@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'LINE Seed Sans TH';
-    src: url('D:/Traning100day/Project21/LINE_Seed_Sans_TH/LINE_Seed_Sans_TH/LINE_Seed_Sans_TH_V1.003/Web/WOFF2/LINESeedSansTH_W_Th.woff2') format('woff2'),
-         url('D:/Traning100day/Project21/LINE_Seed_Sans_TH/LINE_Seed_Sans_TH_V1.003/Web/WOFF/LINESeedSansTH_W_Th.woff') format('woff');
+    src: url('LINE_Seed_Sans_TH/LINE_Seed_Sans_TH/LINE_Seed_Sans_TH_V1.003/Web/WOFF2/LINESeedSansTH_W_Th.woff2') format('woff2'),
+         url('LINE_Seed_Sans_TH/LINE_Seed_Sans_TH_V1.003/Web/WOFF/LINESeedSansTH_W_Th.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
