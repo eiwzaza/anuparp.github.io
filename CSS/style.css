@@ -310,52 +310,14 @@ body {
     cursor: pointer;
   }
 
-.red {
-    background-image: url(img/auto_text_branding-m.jpg);
-    width: 251px;
-}
-.yellow {
-    background-image: url(img/auto_text_creative-m.jpg);
-    width: 300px;
-}
-.blue {
-    background-image: url(img/auto_text_uxui-m.jpg);    
-    width: 200px;
-}
-.orange {
-    background-image: url(img/auto_text_responsive-m.jpg);
-    width: 375px;
-}
-.purple {
-    background-image: url(img/auto_text_branding-m.jpg);
-    width: 330px;
-}
-
-
   .autotext {
     height: 115px;
     width: 1500px;
     overflow: hidden;
     box-sizing: border-box;
     position: relative;
-    top: 1600px;
+    top: 1100px;
     margin: 200px auto;
-  }
-  
-  .autotext-inner {
-    display: block;
-    width: 200%;
-    margin: 33px 0;
-    position: absolute;
-    animation: marquee 20s linear infinite;
-  }
-  
-  .autotext-inner:hover {
-    animation-play-state: paused;
-  }
- 
-  span {
-    float: left;
   }
   
   @keyframes marquee {
